@@ -1,4 +1,4 @@
-# AICTE-Endorsed-Machine-Learning-Internship-Career-Launcher-Aspiration.ai
+# AICTE-Endorsed-Machine-Learning-Internship-Career-Launcher-Aspiration.ai 2020
 •	Did exploratory data analysis on MINDTREE stocks data using python pandas library and calculated monthly VWAP
 
 •	Used seaborn and matplotlib libraries to visualize the trends and find correlations with respect to Nifty50 and others
